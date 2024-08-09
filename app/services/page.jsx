@@ -20,7 +20,7 @@ const services = [
 
   {
     num: "03",
-    title: "Algorithmic Trading/Quantitative Finance Analysis",
+    title: "Quantitative Finance",
     description: "I began with simple trading algorithms on the market but am currently working on understanding more about Quantitative Finance and further implementing machine learning Quantitative Financial models.",
     href:""
   },
@@ -58,8 +58,8 @@ function Services() {
                   <BsArrowDownRight className='text-primary text-3xl'/>
                   </Link> 
                 </div>
-                <h2>{service.title}</h2>
-                <p>{service.description}</p>
+                <h2 className='text-[42px] font-bold leading-none text-white group-hover:text-accent transition-all duration-500'>{service.title}</h2>
+                <p className='text-white/60'>{service.description}</p>
                 <div className='border-b border-white/20'></div>
               </div>
             )
