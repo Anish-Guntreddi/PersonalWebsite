@@ -6,8 +6,8 @@ import React from 'react'
 const services = [
   {
     num: "01",
-    title: "Software Engineering Development",
-    description: "Worked with various frameworks such as React JS, Next JS, and also worked with frameworks like Laravel, which is a framework based off PHP. Incorporated the use of Database services such as MongoDB, Supabase DB and Springboot.",
+    title: "Software Engineering Development (Web and Mobile)",
+    description: "Worked with various frameworks such as React JS, Next JS, Xcode, React-Native and also worked with frameworks like Laravel, which is a framework based off PHP. Incorporated the use of Database services such as MongoDB, Supabase DB and Springboot.",
     href:""
   },
 

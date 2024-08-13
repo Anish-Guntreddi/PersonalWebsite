@@ -31,6 +31,10 @@ const interests = [
 
     {
         area: "Software Engineering"
+    },
+
+    {
+        area: "Data Science"
     }
 ]
 
@@ -60,7 +64,7 @@ function Stats() {
                     <div className="flex-1 flex gap-4 items-center justify-center xl:justify-start mt-10" key={index}>
                         <h1 className={`${
                         item.area.length < 15 ? "max-w-[150px]" : "max-w-[200px]"
-                    } mb-20 text-3xl xl:text-4xl font-extrabold text-accent`}>{item.area}</h1>
+                    } mb-20 text-3xl xl:text-3xl font-extrabold text-accent`}>{item.area}</h1>
                     </div>
                 )
              })}
