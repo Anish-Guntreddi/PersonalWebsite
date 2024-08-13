@@ -41,12 +41,12 @@ function Contact() {
           <div className='xl:h-[54%] order-2 xl:order-none'>
             <form className='flex flex-col gap-6 p-10 bg-[#27272c] rounded-xl'>
               <h3 className='text-4xl text-accent'>Lets work together</h3>
-              <p className='text-white/60'>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa repudiandae perferendis ratione rem, asperiores tempore quaerat enim sunt. Mollitia ipsa reprehenderit velit error dignissimos excepturi recusandae. Asperiores libero molestiae ex.</p>
+              <p className='text-white/60'>Should you wish to discuss potential collaboration opportunities or require further information, please enter your information below or reach out to me via my email to discuss oppurtunities</p>
               <div className='grid grid-cols-1 md:grid-cols-2 gap-6'>
-                <Input type="firstname" placeholder="Firstname"/>
-                <Input type="firstname" placeholder="Lastname"/>
-                <Input type="firstname" placeholder="Email"/>
-                <Input type="firstname" placeholder="Phone Number"/>
+                <Input type="firstname" placeholder="First Name"/>
+                <Input type="lastname" placeholder="Last Name"/>
+                <Input type="email" placeholder="Email"/>
+                <Input type="phonenumber" placeholder="Phone Number"/>
               </div>
               {/*Select*/}
               <Select>
