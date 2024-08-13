@@ -67,6 +67,11 @@ function Contact() {
                   </SelectGroup>
                 </SelectContent>
               </Select>
+              {/*Text area section*/}
+              <Textarea
+              className="h-[200px]"
+              placeholder="Type a small description here"
+              />
             </form>
           </div>
           <div className='flex-1 flex items-center xl:justify-end order-1 xl:order-none mb-8 xl:mb-0'>info</div>
