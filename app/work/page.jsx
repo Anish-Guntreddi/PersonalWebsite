@@ -47,8 +47,8 @@ const projects = [
   {
     num:"02",
     category: "Unsupervised Trading Algorithm",
-    title: "Working on creating a trading algorithm using a K-means clustering machine learning algorithm to figure out what stocks to add to portfolio based off historical data. Using technical intdicators such as the ATR, RSI, MACD (Moving Average Convergence Divergence) and other indicators to train model and determine what stocks to add.",
-    description: "Project Description",
+    title: "Project 2",
+    description: "Working on creating a trading algorithm using a K-means clustering machine learning algorithm to figure out what stocks to add to portfolio based off historical data. Using technical intdicators such as the ATR, RSI, MACD (Moving Average Convergence Divergence) and other indicators to train model and determine what stocks to add.",
     stack: [
       {
         name: "Python",
