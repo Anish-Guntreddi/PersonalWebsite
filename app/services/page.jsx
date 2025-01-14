@@ -31,6 +31,13 @@ const services = [
     description: "Worked with both Python and R to create Statistical models for my current research labs. Created models such as volcano plots with differential gene expression. Also created violin plots and am currently implementing PCA for dimensionality reduction of large datasets from my research labs for more effective generation while preserving the quality of data.",
     href:""
   },
+
+  {
+    num: "05",
+    title: "Mobile App Development",
+    description: "Developed mobile applications using frameworks such as React-Native(JavaScript), Xcode (Swift Programming Language). I have also utilized backedn framworks for mobile applicaiton development such as springboot, mongoDB, Firebase authenticationn, etc. Currently am workign with the kotlin framework on testing development with android applicatons",
+    href:""
+  },
 ]
 
 import {motion} from 'framer-motion'

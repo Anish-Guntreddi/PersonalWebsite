@@ -59,9 +59,15 @@ const experience = {
   items: [
 
     {
+      company: "Insigneo Financial Group",
+      position: "Quant Finance and AI intern",
+      duration: "Sept 2024 - Dec 2024",
+    },
+
+    {
       company: "Headstarter",
       position: "Software Engineering Fellow",
-      duration: "Jun 2024 - Present",
+      duration: "Jun 2024 - Nov 2024",
     },
 
     {
@@ -145,7 +151,7 @@ const education = {
 
 const skills = {
   title: "My Skills",
-  description: "As a dedicated and versatile developer, I bring a robust skill set that spans across Software Development, Data Analysis, Artififical Intelligence, and Algorithmic Trading for Quantitative Finance. My expertise lies in leveraging modern technologies to deliver efficient, scalable, and user-centric solutions.",
+  description: "As a dedicated and versatile developer, I bring a robust skill set that spans across Software Development, Data Analysis, Artififical Intelligence, Mobile App Development, and Algorithmic Trading for Quantitative Finance. My expertise lies in leveraging modern technologies to deliver efficient, scalable, and user-centric solutions.",
   skillList: [
     {
       icon: <FaJava/>,
@@ -334,7 +340,7 @@ const certifications = {
 
   icon: '/assets/resume/badge.svg',
   title: "Certifications",
-  description: "I have sucessfully achieved the following certifications",
+  description: "So far, I have acheived proficiency in the following areas and recieved a certificate for it",
   items: [
     {
       name: "Introduction to Programming using JavaScript",

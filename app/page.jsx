@@ -18,12 +18,12 @@ export default function Home() {
     <div className="container mx-auto h-full">
       <div className="flex flex-col xl:flex-row items-center justify-between xl:pt-8 xl:pb-24">
         <div className="text-center xl:text-left order-2 xl:order-none">
-          <span className="text-xl">Quant, Software, AI Developer</span>
+          <span className="text-xl">Quant, Software, Mobile App, AI Developer</span>
           <h1 className="h1 mt-6">
             Hello I'm <br/> <span className="text-accent">Anish Guntreddi</span>
           </h1>
           <br/>
-            <p className="max-w-[500px] mb-9 text-white/80">Hello! I am Anish Guntreddi. As a first-generation student at the University of Miami, I have a strong passion for education and exploring the dynamic intersection of different disciplines. <br/> <br/> My academic focus is on Comprehensive Computer Science, Data Science, Artificial Intelligence, and also a Major in Math with Applied Statistics.</p>
+            <p className="max-w-[500px] mb-9 text-white/80">Hello! I am Anish Guntreddi. at the University of Miami, I have a strong passion for education and exploring the dynamic intersection of different disciplines. <br/> <br/> My academic focus is on Comprehensive Computer Science, Data Science, Artificial Intelligence, and also a Major in Math with Applied Statistics.</p>
             {/*Socials*/}
             <div className="flex flex-col xl:flex-row items-center gap-8">
               <Link href="./AnishResume3.pdf" target="_blank" alt="resume" rel="noopener noreferrer">
