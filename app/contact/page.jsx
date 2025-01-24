@@ -25,7 +25,7 @@ const info = [
   {
     icon:<FaMapMarkedAlt/>,
     title:"Address",
-    description:"Cumming, Georiga 30040"
+    description:"Cumming, Georgia 30040"
   },
 
 ]
