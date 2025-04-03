@@ -57,6 +57,12 @@ const experience = {
   title: "My Experience",
   description: "Work Description",
   items: [
+    
+    {
+      company: "University of Miami Ortho Lab",
+      position: "Machine Learning Engineer and Researcher",
+      duration: "March 2025 - Till  Date",
+    },
 
     {
       company: "Insigneo Financial Group",
