@@ -57,6 +57,12 @@ const experience = {
   title: "My Experience",
   description: "Work Description",
   items: [
+
+    {
+      company: "Walmart Global Technology",
+      position: "Software and ML Engineering Intern",
+      duration: "June 2025 - Till  Date",
+    },
     
     {
       company: "University of Miami Ortho Lab",
@@ -159,6 +165,12 @@ const skills = {
   title: "My Skills",
   description: "As a dedicated and versatile developer, I bring a robust skill set that spans across Software Development, Data Analysis, Artififical Intelligence, Mobile App Development, and Algorithmic Trading for Quantitative Finance. My expertise lies in leveraging modern technologies to deliver efficient, scalable, and user-centric solutions.",
   skillList: [
+
+    {
+      icon: <Fa/>,
+      name: "JavaScript"
+    },
+
     {
       icon: <FaJava/>,
       name: "Java"

@@ -26,7 +26,7 @@ export default function Home() {
             <p className="max-w-[500px] mb-9 text-white/80">Hello! I am Anish Guntreddi. at the University of Miami, I have a strong passion for education and exploring the dynamic intersection of different disciplines. <br/> <br/> My academic focus is on Comprehensive Computer Science, Data Science, Artificial Intelligence, and also a Major in Math with Applied Statistics.</p>
             {/*Socials*/}
             <div className="flex flex-col xl:flex-row items-center gap-8">
-              <Link href="./AnishResume3.docx.pdf" target="_blank" alt="resume" rel="noopener noreferrer">
+              <Link href="./AnishResume3.docx" target="_blank" alt="resume" rel="noopener noreferrer">
               <Button variant="outline" size="lg" className="uppercase flex items-center gap-2">
                 <span>Download CV/Resume</span>
                 <FiDownload className="text-xl"/>
