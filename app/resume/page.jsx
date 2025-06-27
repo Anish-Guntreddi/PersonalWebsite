@@ -167,11 +167,6 @@ const skills = {
   skillList: [
 
     {
-      icon: <Fa/>,
-      name: "JavaScript"
-    },
-
-    {
       icon: <FaJava/>,
       name: "Java"
     },
